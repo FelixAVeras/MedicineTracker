@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\medicinetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\medicinetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\page\\medicationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\page\\medicationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\page\\medicationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\page\\medicationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\page\\addmedicationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\page\\addmedicationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\page\\addmedicationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\page\\addmedicationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\viewmodels\\medicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\viewmodels\\medicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|c:\\users\\felix ant. veras\\documents\\informatica\\proyectos\\medicinetracker\\medicinetracker\\models\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2EFF97-C0F4-4B86-9FBD-4485F5677972}|MedicineTracker\\MedicineTracker.csproj|solutionrelative:medicinetracker\\models\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicineTracker",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\MedicineTracker.csproj",
+              "RelativeDocumentMoniker": "MedicineTracker\\MedicineTracker.csproj",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\MedicineTracker.csproj",
+              "RelativeToolTip": "MedicineTracker\\MedicineTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T22:24:55.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Page\\MedicationPage.xaml.cs",
+              "RelativeDocumentMoniker": "MedicineTracker\\Page\\MedicationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Page\\MedicationPage.xaml.cs",
+              "RelativeToolTip": "MedicineTracker\\Page\\MedicationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:10:37.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddMedicationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Page\\AddMedicationPage.xaml.cs",
+              "RelativeDocumentMoniker": "MedicineTracker\\Page\\AddMedicationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Page\\AddMedicationPage.xaml.cs",
+              "RelativeToolTip": "MedicineTracker\\Page\\AddMedicationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:09:48.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMedicationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Page\\AddMedicationPage.xaml",
+              "RelativeDocumentMoniker": "MedicineTracker\\Page\\AddMedicationPage.xaml",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Page\\AddMedicationPage.xaml",
+              "RelativeToolTip": "MedicineTracker\\Page\\AddMedicationPage.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T21:58:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Page\\MedicationPage.xaml",
+              "RelativeDocumentMoniker": "MedicineTracker\\Page\\MedicationPage.xaml",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Page\\MedicationPage.xaml",
+              "RelativeToolTip": "MedicineTracker\\Page\\MedicationPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T21:22:38.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MedicineTracker\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\App.xaml.cs",
+              "RelativeToolTip": "MedicineTracker\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:28:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MedicineTracker\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\MauiProgram.cs",
+              "RelativeToolTip": "MedicineTracker\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:49:50.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "MedicineTracker\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "MedicineTracker\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:31:04.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\App.xaml",
+              "RelativeDocumentMoniker": "MedicineTracker\\App.xaml",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\App.xaml",
+              "RelativeToolTip": "MedicineTracker\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T21:28:41.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\ViewModels\\MedicationViewModel.cs",
+              "RelativeDocumentMoniker": "MedicineTracker\\ViewModels\\MedicationViewModel.cs",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\ViewModels\\MedicationViewModel.cs",
+              "RelativeToolTip": "MedicineTracker\\ViewModels\\MedicationViewModel.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv2IAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:16:09.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MedicineTracker\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\AppShell.xaml",
+              "RelativeToolTip": "MedicineTracker\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T21:28:32.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MedicineTracker\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\AppShell.xaml.cs",
+              "RelativeToolTip": "MedicineTracker\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:28:28.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Medication.cs",
+              "DocumentMoniker": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Models\\Medication.cs",
+              "RelativeDocumentMoniker": "MedicineTracker\\Models\\Medication.cs",
+              "ToolTip": "C:\\Users\\Felix Ant. Veras\\Documents\\informatica\\proyectos\\MedicineTracker\\MedicineTracker\\Models\\Medication.cs",
+              "RelativeToolTip": "MedicineTracker\\Models\\Medication.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:59:22.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
