@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:pilldotrack/pages/homePage.dart';
+import 'package:pilldotrack/pages/loginPage.dart';
 import 'package:pilldotrack/services/DatabaseService.dart';
 
 void main() async {
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'PildoTrack APP',
+      title: 'PildoTrack',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.pink),
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
           foregroundColor: Colors.white,
         ),
       ),
-      home: HomePage(),
+      home: LoginPage(),
     );
   }
 }
